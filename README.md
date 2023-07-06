@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hello, I'm Zainab Talha!
+👋  I'm Zainab Talha!
 
 👨‍💻 Experienced C/C++ Programmer | Python Developer | Web Developer
 
